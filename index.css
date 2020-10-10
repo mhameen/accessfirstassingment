@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box ;  
+}
+.community{
+    background-color: white;
+    padding: 30px;
+    border: white;
+    width: 100%;
+    height: 45%;
+}
+#headding{
+    color: lightskyblue;
+}
+#sideheadding{
+    color: yellowgreen;
+}
+.greylines{
+    color: grey;
+}
+.subscription{
+    background-color:skyblue;
+    padding: 30px;
+    width: 50%;
+    height: 60vh;
+    border: skyblue;
+    float: left;
+}
+.whyus{
+    padding: 30px;
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+    width: 50%;
+    height: 60vh;
+    float: right
+}
+ul {list-style-type:none}
+.signup{
+    border-radius: 5px;
+    background-color: yellowgreen;
+    width: 100px;
+    padding: 15px 20px;
+    margin-top: 35px;
+    margin-left:35px;
+    border: 1px solid black;
+}
+.whitetext{
+    color:white;
+}    
